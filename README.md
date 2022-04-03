@@ -12,5 +12,10 @@ The purpose of this project is to provide a template for MERN stack applications
 * JWT
 * React
 
+# Instructions before installation
+* Rename database (connection.js)
+* Rename application (Root>package.json)
+* Add your title to the application (client>public>index.html)
+
 # Credits
 Miranda Lane
